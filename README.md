@@ -14,6 +14,11 @@ This application can translate text into multiple world languages using Google's
 - Supports Indian and international languages
 
 ---
+## 🌐 Live Demo
+
+Try the app here:
+
+[Language Translator App](https://huggingface.co/spaces/Shubhankar912/LanguageTranslator)
 
 ## 🛠️ Technologies Used
 
